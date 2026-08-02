@@ -743,5 +743,5 @@ Ce projet est distribué sous la licence **MIT** — consultez le fichier [LICEN
 ## Copyright / Droit d'auteur
 
 ```text
-Copyright (c) 2025 Sam Tech Lab
+Copyright (c) 2026 Sam Tech Lab
 ```
