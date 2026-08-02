@@ -1,4 +1,6 @@
-# Docker Ubuntu 18.04 LTS (Bionic) - Sam Tech Lab
+<h1 align="center">Docker Ubuntu 18.04 LTS (Bionic)</h1>
+
+<p align="center"><strong>Minimal • Hardened • Multi-Architecture • Non-Root • FROM scratch</strong></p>
 
 <table align="center">
   <tr>
@@ -18,12 +20,15 @@
 </table>
 
 <p align="center">
-  <a href="https://hub.docker.com/r/samtechlab/ubuntu-18.04-bionic" target="_blank">
-    <img src="https://img.shields.io/docker/pulls/samtechlab/ubuntu-18.04-bionic.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Pulls"/>
-  </a>
-  <a href="https://hub.docker.com/r/samtechlab/ubuntu-18.04-bionic" target="_blank">
-    <img src="https://img.shields.io/docker/stars/samtechlab/ubuntu-18.04-bionic.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Stars"/>
-  </a>
+<a href="https://hub.docker.com/r/samtechlab/ubuntu-18.04-bionic"><img src="https://img.shields.io/docker/pulls/samtechlab/ubuntu-18.04-bionic?style=for-the-badge&logo=docker"/></a>
+<a href="https://hub.docker.com/r/samtechlab/ubuntu-18.04-bionic"><img src="https://img.shields.io/docker/stars/samtechlab/ubuntu-18.04-bionic?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-18.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Arch-amd64%20%7C%20arm64-success?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/Sam-Tech-Lab-Git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=SamTechLab&message=GitHub&color=94398d&labelColor=555555&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
