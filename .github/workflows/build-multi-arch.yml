@@ -121,10 +121,10 @@ jobs:
             org.opencontainers.image.vendor="Sam Tech Lab"
             org.opencontainers.image.url="https://ghcr.io/${{ github.repository_owner }}/ubuntu-18.04-bionic"
 
-      - name: Sync README to Docker Hub
-        uses: peter-evans/dockerhub-description@1b9a80c056b620d92cedb9d9b5a223409c68ddfa
-        with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: samtechlab/ubuntu-18.04-bionic
-          readme-filepath: ./README.md
+      # - name: Sync README to Docker Hub
+      #   uses: peter-evans/dockerhub-description@1b9a80c056b620d92cedb9d9b5a223409c68ddfa
+      #   with:
+      #     username: ${{ secrets.DOCKERHUB_USERNAME }}
+      #     password: ${{ secrets.DOCKERHUB_TOKEN }}
+      #     repository: samtechlab/ubuntu-18.04-bionic
+      #     readme-filepath: ./README.md
